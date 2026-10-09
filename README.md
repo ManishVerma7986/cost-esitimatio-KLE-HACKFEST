@@ -361,7 +361,6 @@ The simulation draws $N = 10,000$ independent realizations across all tasks, app
 - **Repository**: [`ManishVerma7986/cost-esitimatio-KLE-HACKFEST`](https://github.com/ManishVerma7986/cost-esitimatio-KLE-HACKFEST)
 - **Track**: AI & Intelligent Systems / Software Engineering Productivity
 - **Built For**: **KLE HACKFEST 2026**
-- **License**: MIT License
 
 ---
 
